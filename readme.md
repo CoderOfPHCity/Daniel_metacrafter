@@ -8,6 +8,7 @@ This Solidity contract, named MyToken, is a basic implementation showcasing fund
 Token Information:
 
 tokenName and tokenAbbrv: Public variables storing the name and abbreviation of the token.
+
 totalSupply: Public variable representing the total supply of the token.
 Balances:
 
@@ -25,10 +26,12 @@ Getting Started
 To interact with this contract:
 
 Use Remix, an online Solidity IDE, at https://remix.ethereum.org/.
+
 Create a new file and save it with a .sol extension.
 Copy and paste the provided MyToken contract code.
 Compile the code using the "Solidity Compiler" tab.
 Deploy the contract in the "Deploy & Run Transactions" tab.
+
 Example Usage
 solidity
 Copy code
