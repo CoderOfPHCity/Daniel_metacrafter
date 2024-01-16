@@ -1,8 +1,10 @@
-MyToken Solidity Contract
-Overview
+# MyToken Solidity Contract
+
+## Overview
+
 This Solidity contract, named MyToken, is a basic implementation showcasing fundamental functionalities for managing a token on the Ethereum blockchain. The contract includes features such as token minting, burning, and balance tracking.
 
-Features
+## Features
 Token Information:
 
 tokenName and tokenAbbrv: Public variables storing the name and abbreviation of the token.
